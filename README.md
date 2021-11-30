@@ -5,10 +5,9 @@ impl the common data structures in go.
 - List
     - Array List
     - Singly Linked List
-    - [] Doubly Linked List
+    - Doubly Linked List
 - Map
-    - [] HashMap
-    - []
+    - HashMap
 - Tree
     - Binary 二叉树
     - Binary Search 二叉搜索树
